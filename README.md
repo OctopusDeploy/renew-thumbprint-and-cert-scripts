@@ -1,2 +1,4 @@
 # renew-thumbprint-and-cert-scripts
-A repository of Bash &amp; PowerShell scripts, that allow customers to renew their Ocotpus Server thumbprint and its associated certificate.
+A repository of Bash and PowerShell scripts plus a draft plan in PDF format, that allows customers to renew their Octopus Server thumbprint and its associated certificate.
+
+Especially useful for improving the cypher suite Octopus thumbprints use.
