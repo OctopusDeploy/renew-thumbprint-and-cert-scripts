@@ -1,0 +1,1 @@
+'curl -H "X-Octopus-Apikey: API-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" -H "Accept: application/json" "https://<instance-hostname>/api/<space-id>/machines" |  jq '.Items .[] | select(.Endpoint.CertificateSignatureAlgorithm=="sha1RSA")'
